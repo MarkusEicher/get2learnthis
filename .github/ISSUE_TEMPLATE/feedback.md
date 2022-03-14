@@ -7,4 +7,5 @@ assignees: ''
 
 ---
 
-Please feel free to raise an issue. Thanks for your valuable feedback!
+Please feel free to raise an issue. We encourage you to use labels.
+Thanks for your valuable feedback!
