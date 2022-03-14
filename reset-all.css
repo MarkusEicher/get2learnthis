@@ -7,7 +7,12 @@
 
 /* This is a hard reset of all defaults leaving everything
 unstyled. We plan to use this for bare HTML pages without any
-default styling applied. */
+default styling applied. In most cases we don't use this for
+regular projects. An alternative to this hard reset is to use
+normalize https://github.com/necolas/normalize.css/ . This is
+less invasive and we probably will prefer normalize over reset.
+Normalize will be documented in normalize.css.
+*/
 
 html, body, div, span, applet, object, iframe,
 h1,h2, h3, h4, h5, h6, p, blockquote, pre,
