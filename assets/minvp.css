@@ -1,0 +1,33 @@
+/* Derived from Jen Simmons editorial YouTube Video
+"Using Flexbox + CSS Grid Together: Easy Gallery Layout"
+https://youtu.be/dQHtT47eH0M */
+
+/* These are our default settings for this profile page project. They
+are applied for and understand by all browsers. Minimal Viable Pageview
+for all users, no matter on which browser or device they view the page. */
+
+/* MVP - MinimalViablePageview */
+
+/* We want to use border-box as our default box-sizing mode. This is safe
+because almost all browsers support this.
+https://caniuse.com/?search=border-box */
+* {
+  box-sizing: border-box; /* Jenn Simmons setting */
+}
+
+/* Here we set the global defaults for the <body> element. These settings
+are inherited to all other elements inside the <body> tag. We define 1rem 
+as default for all elements on the page. */
+body {
+  padding: 1rem; /* Jenn Simmons setting */
+  background-color: darkgray; /* temp */
+  /* text-align: center; temp */
+}
+
+main {
+  max-width: 500px; /* Jenn Simmons setting */
+  margin: 0 auto; /* Jenn Simmons setting */
+}
+article {
+  margin: 1rem 0; /* Jenn Simmons setting */
+}
