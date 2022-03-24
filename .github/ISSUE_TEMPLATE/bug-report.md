@@ -7,5 +7,9 @@ assignees: ''
 
 ---
 
-Thank you for contribution. Please let us know what bug or error you found.
+### Thank you for your contribution!
+Please let us know what bug or error you found.
+Please don't change the label of this issue, thanks. 
 We appreciate your feedback!
+
+
