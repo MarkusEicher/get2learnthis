@@ -2,7 +2,7 @@
 name: bug-report
 about: Template to use for raising issues with bugs and errors
 title: Bug Report
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
