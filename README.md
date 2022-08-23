@@ -1,8 +1,4 @@
-# LearnToCodeCompanion
-A solution to support people that learn to code. The basic idea is providing relevant, managed and peer-reviewed content for people learning to code. 
+# Welcome to get2learnthis 
+A solution to support people learning new skills. The basic idea is providing relevant, managed and peer-reviewed content for learners from learners. Our content is peer reviewed and optimized for beginners in the respective discipline. A solution to bring learners and professionals together and to grow a community of support and opportunities for all participants.
 
-## seo-metatags.html
-The file seo-metatags.html contains detailed comments of the meta tags that are responsible for the on-page SEO in the form of line or block comments. 
-
-## reset-all.css
-reset-all.css is a full reset of all default browser settings from meyerweb. 
+## Let's learn something together! 
