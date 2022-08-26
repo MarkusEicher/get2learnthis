@@ -19,7 +19,7 @@ https://markuseicher.com/get2learnthis/
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
+See `contributing.md` for ways to get started. Thank you!
 
 Please adhere to this project's `code of conduct`.
 
