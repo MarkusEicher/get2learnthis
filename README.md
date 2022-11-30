@@ -1,7 +1,8 @@
 
 # get2learnthis
 
-![MECS-GitHub-Readme-Banner-Grey](https://user-images.githubusercontent.com/83175378/186284368-4abb9a1c-d946-4f5a-b8c1-d704ae77569c.png)
+![MECS-GitHub-Banner-Project-get2learnthis](https://user-images.githubusercontent.com/83175378/204790466-2d744943-1fcc-4068-ab04-17e40836f6c2.png)
+
 
 A solution to support people learning new skills. The basic idea is providing relevant, managed, and peer-reviewed content for learners from learners. Our content is peer reviewed by people knowing the matter and optimized for beginners in the respective discipline. A solution to bring learners and professionals together and to grow a community of support and opportunities for all participants.
 
