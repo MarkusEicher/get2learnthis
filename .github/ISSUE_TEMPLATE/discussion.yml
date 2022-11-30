@@ -18,7 +18,7 @@ body:
     validations:
       required: false
   - type: textarea
-    id: topic / issue / opinion
+    id: topic-issue-opinion
     attributes:
       label: What is the topic, opinion, or issue you want to talk about?
       description: Topic
