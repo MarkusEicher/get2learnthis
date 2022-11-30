@@ -26,15 +26,6 @@ body:
       value: "A bug happened!"
     validations:
       required: true
-  - type: dropdown
-    id: version
-    attributes:
-      label: Version
-      description: What version of our software are you running?
-      options:
-        - 0.9 alpha (Default)
-    validations:
-      required: false
   - type: textarea
     id: logs
     attributes:
