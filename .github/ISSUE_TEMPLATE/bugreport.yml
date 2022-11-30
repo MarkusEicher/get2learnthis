@@ -1,6 +1,8 @@
 name: Bug Report
 description: Please tell us, what kind of problem you found
 title: "[Bug]: "
+validations:
+      required: true
 labels: "bug"
 assignees:
   - MarkusEicher
