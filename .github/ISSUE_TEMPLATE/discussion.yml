@@ -9,15 +9,7 @@ body:
     attributes:
       value: |
         Thanks for helping to improve our project, we hope it will soon be yours too! We ask you to help us by first checking, if one of the already opened issues corresponds with your issue or topic. In this case, please contribute by commenting on the open issue, before opening a new one here. Thanks for helping to reduce the burden of maintaining this project. We appreciate your support!
-  - type: input
-    id: contact
-    attributes:
-      label: How to contact you
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
-    validations:
-      required: false
-  - type: textarea
+   - type: textarea
     id: topic-issue-opinion
     attributes:
       label: What is the topic, opinion, or issue you want to talk about?
@@ -32,6 +24,14 @@ body:
       label: Log outputs, screenshots, questions? 
       description: Please copy and paste any relevant log output or screenshots. This will be automatically formatted into code, so no need for backticks.
       render: shell
+   - type: input
+    id: contact
+    attributes:
+      label: How to contact you
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
   - type: checkboxes
     id: terms
     attributes:
