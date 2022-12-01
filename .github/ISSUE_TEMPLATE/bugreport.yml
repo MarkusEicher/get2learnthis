@@ -9,14 +9,6 @@ body:
     attributes:
       value: |
         Thanks for helping us to improve our product!
-  - type: input
-    id: contact
-    attributes:
-      label: How to contact you
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
-    validations:
-      required: false
   - type: textarea
     id: what-happened
     attributes:
@@ -27,11 +19,19 @@ body:
     validations:
       required: true
   - type: textarea
-    id: logs
+    id: codeandlogs
     attributes:
-      label: Log output or screenshot 
-      description: Please copy and paste any relevant log output or screenshots. This will be automatically formatted into code, so no need for backticks. Screenshots will be available at a later time.
+      label: Code and logs 
+      description: Please copy and paste any relevant log output or screenshots. This will be automatically formatted into code, so no need for backticks.
       render: shell
+  - type: input
+    id: contact
+    attributes:
+      label: How to contact you
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
   - type: checkboxes
     id: terms
     attributes:
