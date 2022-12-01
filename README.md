@@ -10,7 +10,7 @@ A solution to support people learning new skills. The basic idea is providing re
 
 ## Documentation
 
-The documentation of this project is available at the project website via GitHub Pages. Currently this site is not useful but I will do my best to bring it online asap. We are currently looking for a decentralized home for our opensource projects. Especially the discussion and documentation part shall be transformed to a 
+The documentation of this project is available at the project website via GitHub Pages. Currently this site is not useful but we will do our best to bring it online asap. We are currently looking for a decentralized home for our opensource projects. 
 
 https://markuseicher.com/get2learnthis/
 
