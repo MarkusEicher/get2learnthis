@@ -1,7 +1,7 @@
-name: discussion
-description: Let's have a discussion. You can start one by opening a discussion issue.
-title: "[discussion]: "
-labels: "discussion"
+name: issue form
+description: Let's have a discussion. You can start one or submit question and feature requests by opening an issue.
+title: "[Issue]: "
+labels: "Issue:"
 assignees:
   - MarkusEicher
 body:
@@ -9,7 +9,7 @@ body:
     attributes:
       value: |
         Thanks for helping to improve our project, we hope it will soon be yours too! We ask you to help us by first checking, if one of the already opened issues corresponds with your issue or topic. In this case, please contribute by commenting on the open issue, before opening a new one here. Thanks for helping to reduce the burden of maintaining this project. We appreciate your support!
-   - type: textarea
+  - type: textarea
     id: topic-issue-opinion
     attributes:
       label: What is the topic, opinion, or issue you want to talk about?
@@ -24,7 +24,7 @@ body:
       label: Log outputs, screenshots, questions? 
       description: Please copy and paste any relevant log output or screenshots. This will be automatically formatted into code, so no need for backticks.
       render: shell
-   - type: input
+  - type: input
     id: contact
     attributes:
       label: How to contact you
