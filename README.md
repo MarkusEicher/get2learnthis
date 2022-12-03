@@ -50,5 +50,5 @@ At this stage, there exist only some files in the assets folder with extensive c
 
 ## Feedback and Support
 
-If you have any feedback or questions, please reach out to us by submitting an issue. Thanks for your support! 🤝
+If you have any feedback or questions, please reach out to us by submitting an issue. Thanks for your support! 💚
 
